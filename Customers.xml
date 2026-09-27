@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Customers>
+  <Customer CustomerID="LAZYK" City="Seattle" Region="WA">
+    <Orders>
+      <Order OrderID="1001" OrderDate="1997-03-21" Total="450.00" />
+      <Order OrderID="1002" OrderDate="1998-05-06" Total="120.50" />
+      <Order OrderID="1003" OrderDate="1998-09-12" Total="980.00" />
+    </Orders>
+  </Customer>
+
+  <Customer CustomerID="TRAIH" City="Kirkland" Region="WA">
+    <Orders>
+      <Order OrderID="1004" OrderDate="1997-11-02" Total="610.75" />
+      <Order OrderID="1005" OrderDate="1998-01-15" Total="75.00" />
+    </Orders>
+  </Customer>
+
+  <Customer CustomerID="WHITC" City="Walla Walla" Region="WA">
+    <Orders>
+      <Order OrderID="1006" OrderDate="1997-06-30" Total="220.00" />
+      <Order OrderID="1007" OrderDate="1998-03-04" Total="530.20" />
+      <Order OrderID="1008" OrderDate="1998-07-19" Total="40.00" />
+      <Order OrderID="1009" OrderDate="1999-02-09" Total="300.00" />
+    </Orders>
+  </Customer>
+
+  <Customer CustomerID="ALFKI" City="Berlin" Region="">
+    <Orders>
+      <Order OrderID="1010" OrderDate="1997-08-25" Total="95.00" />
+      <Order OrderID="1011" OrderDate="1998-04-01" Total="700.00" />
+    </Orders>
+  </Customer>
+
+  <Customer CustomerID="ANATR" City="Mexico D.F." Region="">
+    <Orders>
+      <Order OrderID="1012" OrderDate="1998-11-11" Total="15.00" />
+    </Orders>
+  </Customer>
+</Customers>
